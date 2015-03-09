@@ -1,1 +1,2 @@
 # HDFace_KINECT
+KINECTを用いてAUパラメータを取得するプログラム
